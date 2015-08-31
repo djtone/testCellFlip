@@ -98,7 +98,7 @@
     [cell.superview bringSubviewToFront:collectionView];
     
     [UIView transitionWithView:cell
-                      duration:nil
+                      duration:0.3
                        options:UIViewAnimationOptionTransitionFlipFromLeft
                     animations:^{
                         [UICollectionViewCell commitAnimations];
