@@ -108,8 +108,13 @@
                             [cell.imageView setImage:[UIImage imageNamed:@"cardBg"]];
                         else
                             [cell.imageView setImage:[UIImage imageNamed:@"cardBg2"]];
+                        
                     }
-                    completion:^(BOOL finished) {}];
+                    completion:^(BOOL finished) {
+                    
+                        NSLog(@"The animation flip was completed");
+                    
+                    }];
 }
 
 @end

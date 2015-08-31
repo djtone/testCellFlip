@@ -426,6 +426,7 @@
 				B825D0F41B8CF7D500883F43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B825D0F51B8CF7D500883F43 /* Build configuration list for PBXNativeTarget "IconFlipTests" */ = {
 			isa = XCConfigurationList;
@@ -434,6 +435,7 @@
 				B825D0F71B8CF7D500883F43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
